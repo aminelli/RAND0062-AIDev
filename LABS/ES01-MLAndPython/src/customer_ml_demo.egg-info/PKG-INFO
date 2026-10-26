@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: customer-ml-demo
+Version: 0.1.0
+Summary: Local synthetic purchase and churn prediction demo
+Requires-Python: <3.15,>=3.12
+Requires-Dist: fastapi==0.136.3
+Requires-Dist: joblib==1.5.3
+Requires-Dist: numpy==2.4.2
+Requires-Dist: pandas==2.3.3
+Requires-Dist: pydantic==2.12.5
+Requires-Dist: pymongo==4.16.0
+Requires-Dist: scikit-learn==1.9.1
+Requires-Dist: streamlit==1.55.0
+Requires-Dist: uvicorn[standard]==0.41.0
+Provides-Extra: dev
+Requires-Dist: httpx==0.28.1; extra == "dev"
+Requires-Dist: pytest==9.0.2; extra == "dev"

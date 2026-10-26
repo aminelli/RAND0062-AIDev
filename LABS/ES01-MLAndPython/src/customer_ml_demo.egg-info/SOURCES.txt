@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/customer_ml/__init__.py
+src/customer_ml/api.py
+src/customer_ml/config.py
+src/customer_ml/database.py
+src/customer_ml/synthetic.py
+src/customer_ml/training.py
+src/customer_ml/ui.py
+src/customer_ml_demo.egg-info/PKG-INFO
+src/customer_ml_demo.egg-info/SOURCES.txt
+src/customer_ml_demo.egg-info/dependency_links.txt
+src/customer_ml_demo.egg-info/requires.txt
+src/customer_ml_demo.egg-info/top_level.txt
